@@ -1,0 +1,14 @@
+
+.menu-item {
+    display: block;
+    margin: 0;
+    padding: 0;
+    border: none;
+    width: 100%;
+    height: auto;
+  }
+
+.Imagi3{
+    display: flex;
+    flex-direction: column;
+}

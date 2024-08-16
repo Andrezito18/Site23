@@ -1,0 +1,71 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(0, 0, 0);
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+}
+
+.page1 {
+    display: flex;
+    width: 120%;
+    height: 120%;
+    align-items: right;
+    
+}
+
+.telacontato {
+    display: flex;   
+    flex-direction: column;
+    padding: 40px;
+    border-radius: 20px;
+    flex-basis: 45%;  
+    font-size: 150%;
+    margin-left: 45px;
+    
+    
+}
+form {
+    display: flex;
+    flex-direction: column;
+    gap: 10px; 
+    
+}
+
+
+label {
+    font-size: 35px;
+}
+
+.center2 { 
+    text-align: center;
+    padding: 20px;
+}
+
+
+button {
+    background-color: #13234E;
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+    width: 20%;
+    height: 100%;
+    font-size: 30px;
+    margin-right: 45vh;
+
+    
+}
+
+.imagi2 {
+    text-align: center;  
+    position: relative;
+    left: -160px;
+    bottom: -50px;
+}
+
+.textoareal{
+    background: #D9D9D9;
+    outline: none;
+    width: 60%;
+}
+
